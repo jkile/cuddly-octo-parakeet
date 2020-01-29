@@ -1,4 +1,4 @@
-# cuddly-octo-parakeet
+# HTML Refactor
 HTML Refactor
 
 This project was spent replacing div elements to semantic elements where they would help make the markup
